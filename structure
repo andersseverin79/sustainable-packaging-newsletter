@@ -1,0 +1,6 @@
+.
+├── weekly_newsletter.py
+├── requirements.txt
+└── .github/
+    └── workflows/
+        └── weekly_newsletter.yml
